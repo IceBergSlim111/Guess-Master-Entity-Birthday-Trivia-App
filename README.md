@@ -13,4 +13,4 @@ The project involves practicing Android programming by enhancing the GuessMaster
 - Persistent Data Management: Entity data is stored and managed within the application, allowing for continuous gameplay and updates.
 - Custom Java Classes: Reuses existing Java classes like Entity, Person, Politician, and integrates them within an Android environment.
 
-To find the java files: 
+To find the java files: app/src/main/java/com/example/guessmaster
